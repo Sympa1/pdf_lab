@@ -7,13 +7,6 @@ PDF Lab ist ein Tool zum mergen und splitten von PDFs. Außerdem kann man PDFs v
 - PDF splitten
 - PDF ver- und entschlüsseln
 
-## Roadmap
-- Multithreading um parallele Funktionen auszuführen
-- Progressbars für alle Funktionen
-- Passwort Sicherheitsanalyse mit Echtzeit-Bewertung in Form einer Anzeige wie sicher das gewählte Passwort ist
-- Ausschluss schwacher Passwörter (123456789, hallo, etc.)
-- Verlinkung zum GitHub Repository
-
 ## Lessons Learned
 Eine kleine Herausforderung war es für mich das UI zu gestalten. CustomTkinter bietet aber gute Möglichkeiten ein Modernes UI zu gestalten. 
 Eine größere Herausforderung, weil ich das noch nicht gemacht habe, war es, die Settings (Fenstergröße und Theme) nachhaltig zu speichern. Die Möglichkeit wollte ich möglichst simpel halten, was mir auch gelungen ist. Im Großen und Ganzen habe ich einiges dazu gelernt und daher bewerte ich das Projekt als Erfolg. 
