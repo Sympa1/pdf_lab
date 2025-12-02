@@ -1,4 +1,4 @@
-# Project Prometheus - PDF Lab
+# PDF Lab
 
 PDF Lab ist ein Tool zum mergen und splitten von PDFs. Außerdem kann man PDFs ver- und entschlüsseln. 
 
@@ -57,7 +57,7 @@ Weitere spannende Ideen, die ich gerne umsetzen möchte, habe ich in der Roadmap
    ```
 2. In das Repository Verzeichnis navigieren:
    ```
-   cd Project_Prometheus-PDF_Lab
+   cd pdf_lab
    ```
 3. Virtuelles Environment einrichten:
    ```bash
